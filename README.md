@@ -81,3 +81,7 @@ Place the files in the project directory under /input/
 
 Run the notebook
 Open Skin_Cancer_MNIST_HAM10000.ipynb using Jupyter Notebook or Colab and run all cells.
+
+```bash
+pip install streamlit torch torchvision pillow matplotlib pandas
+```
